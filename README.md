@@ -7,7 +7,7 @@ I've studied the subject for a couple of days, and here is the result:\
 #important anecdotes I've learned
 1. Separation between the logic layer and the GUI layer
 2. Communication between Controller class and Main class
-3. EventHandlers are used by interactive tools
-4. Start method demonstarted the use of Lambda Expressions
-5. the recursive function open was fun to implement ![alt text]<img src="https://img.icons8.com/ios/25/000000/cool--v3.png"/>
+3. EventHandlers are good for interactive tools
+4. start() demonstarted the use of Lambda Expressions
+5. The recursive function open() was fun to implement <img src="https://img.icons8.com/ios/25/000000/cool--v3.png"/>
 
