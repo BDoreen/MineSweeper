@@ -12,5 +12,5 @@ I've studied the subject for a couple of days, and here is the result:\
 5. The recursive function open() was fun to implement <img src="https://img.icons8.com/ios/25/000000/cool--v3.png"/>
 
 OOP principles: Encapsulation. It lacks of Inheritance, Polymorphism and Abstraction.
-but there is a vigorous use of inner classes which keep the code clean and understandable.
+but there is a vigorous use of inner classes which keep the code understandable.
 
