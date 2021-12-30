@@ -1,5 +1,5 @@
 # MineMeoper ![alt text](https://i.ibb.co/z4LmqVg/icon.png)
-Mine Sweeper game implemented in java language, to exercise javaFX.
+Mine Sweeper game implemented in java language, to exercise javaFX.\
 I've studied the subject for a couple of days, and here is the result:\
 ![Alt Text](https://media.giphy.com/media/GdTYLwLSbT1B5Pqgg3/giphy.gif)
 
