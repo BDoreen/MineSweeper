@@ -8,6 +8,6 @@ I've studied the subject for a couple of days, and here is the result:\
 1. Separation between the logic layer and the GUI layer
 2. Communication between Controller class and Main class
 3. EventHandlers are good for interactive tools
-4. start() demonstarted the use of Lambda Expressions
+4. start() demonstarted the use of the Lambda expression
 5. The recursive function open() was fun to implement <img src="https://img.icons8.com/ios/25/000000/cool--v3.png"/>
 
