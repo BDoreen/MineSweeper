@@ -4,7 +4,7 @@ using javafx and scene builder.\
 I've studied the subject for a couple of days, and here is the result:\
 ![Alt Text](https://media.giphy.com/media/GdTYLwLSbT1B5Pqgg3/giphy.gif)
 
-#important anecdotes I've learned
+# Important anecdotes I've learned
 1. Separation between the logic layer and the GUI layer
 2. Communication between Controller class and Main class
 3. EventHandlers are good for interactive tools
