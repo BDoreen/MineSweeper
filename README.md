@@ -2,6 +2,5 @@
 Mine Sweeper game implemented in java language,
 using javafx and scene builder.
 Here is a gif, demonstraiting the game:
-![Alt Text](https://i.ibb.co/Y8W4vwY/Mine-Meoper-Gif.gif)
+![Alt Text](https://media.giphy.com/media/GdTYLwLSbT1B5Pqgg3/giphy.gif)
 
-#Important 
